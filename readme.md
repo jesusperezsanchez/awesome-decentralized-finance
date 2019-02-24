@@ -4,12 +4,12 @@ Una lista seleccionada de los mas impresionante proyectos de Finanzas Descentral
 
 ## ¿Que son las Finanzas Descentralizadas?
 
-Finanzas Descentralizadas (#Defi) es un momvimiento que se apalanca en el codigo abierto y las redes descentralizadas para transforamar los tradicionales productos financieros en protocolos confiables y transparentes que operan sin la necesidad de intermediarios. Es posible visionar como las finanzas descentralizadas impactaran en el mundo financiero de la misma forma que el desarrollo de codigo abierto ha cambiado lso productos de desarrollo tradicionales.
+Finanzas Descentralizadas (#Defi) es un momvimiento que se apalanca en el codigo abierto y las redes descentralizadas para transforamar los tradicionales productos financieros en protocolos confiables y transparentes que operan sin la necesidad de intermediarios. Es posible visionar como las finanzas descentralizadas impactaran en el mundo financiero de la misma forma que el desarrollo de codigo abierto ha cambiado los productos de desarrollo tradicionales.
 
 ## Contenidos
 
 - [Protocolos de Mercados Descentralizados](#decentralized-exchange-protocols)
-- [Stablecoins](#stablecoins)
+- [Monedas Estables](#stablecoins)
 - [Lending Protocols](#lending-protocols)
 - [Derivative Protocols/Prediction Markets](#derivative-protocols)
 - [Bundling Protocols](#bundling-protocols)
@@ -47,7 +47,7 @@ Finanzas Descentralizadas (#Defi) es un momvimiento que se apalanca en el codigo
 
 <a name="stablecoins" />
 
-## Stablecoins
+## Monedas Estables
 
 - IOU / Centralized
   - Bitcoin / Omni
