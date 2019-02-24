@@ -8,7 +8,7 @@ Finanzas Descentralizadas (#Defi) es un momvimiento que se apalanca en el codigo
 
 ## Contenidos
 
-- [Decentralized Exchange Protocols](#decentralized-exchange-protocols)
+- [Protocolos de Mercados Descentralizados](#decentralized-exchange-protocols)
 - [Stablecoins](#stablecoins)
 - [Lending Protocols](#lending-protocols)
 - [Derivative Protocols/Prediction Markets](#derivative-protocols)
@@ -23,7 +23,7 @@ Finanzas Descentralizadas (#Defi) es un momvimiento que se apalanca en el codigo
 
 <a name="decentralized-exchange-protocols" />
 
-## Decentralized Exchange Protocols
+## Protocolos de Mercados Descentralizados
 
 - [BitShares](https://bitshares.org/technology/decentralized-asset-exchange) ([source code](https://github.com/bitshares), [white paper](https://www.bitshares.foundation/download/articles/BitSharesBlockchain.pdf)) - Decentralized exchange protocol based on the Graphene blockchain
 - Bitcoin
