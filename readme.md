@@ -1,12 +1,12 @@
 # Impresionantes Finanzas Descentralizadas  [![Impresionante](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome decentralized finance projects, software, and resources.
+Una lista seleccionada de los mas impresionante proyectos de Finanzas Descentralizadas, Programas y recursos.
 
-## What is Decentralized Finance?
+## ¿Que son las Finanzas Descentralizadas?
 
-Decentralized finance (#defi) is the movement that leverages open source software and decentralized networks to transform traditional financial products into trustless and transparent protocols that operate without unnecessary intermediaries. One could envision decentralized finance impacting the financial world the same way that open source software has changed software products.
+Finanzas Descentralizadas (#Defi) es un momvimiento que se apalanca en el codigo abierto y las redes descentralizadas para transforamar los tradicionales productos financieros en protocolos confiables y transparentes que operan sin la necesidad de intermediarios. Es posible visionar como las finanzas descentralizadas impactaran en el mundo financiero de la misma forma que el desarrollo de codigo abierto ha cambiado lso productos de desarrollo tradicionales.
 
-## Contents
+## Contenidos
 
 - [Decentralized Exchange Protocols](#decentralized-exchange-protocols)
 - [Stablecoins](#stablecoins)
