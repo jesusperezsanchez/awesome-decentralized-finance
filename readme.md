@@ -10,7 +10,7 @@ Finanzas Descentralizadas (#Defi) es un momvimiento que se apalanca en el codigo
 
 - [Protocolos de Mercados Descentralizados](#decentralized-exchange-protocols)
 - [Monedas Estables](#stablecoins)
-- [Lending Protocols](#lending-protocols)
+- [Protocolos de Prestamos](#lending-protocols)
 - [Derivative Protocols/Prediction Markets](#derivative-protocols)
 - [Bundling Protocols](#bundling-protocols)
 - [Tokenization Protocols](#tokenization-protocols)
@@ -77,7 +77,7 @@ Finanzas Descentralizadas (#Defi) es un momvimiento que se apalanca en el codigo
 
 <a name="lending-protocols" />
 
-## Lending Protocols
+## Protocolos de Prestamos
 
 - Ethereum
   - [Compound](https://compound.finance) ([source code](https://github.com/compound-finance/), [white paper](https://compound.finance/documents/Compound.Whitepaper.v04-83de48b6622ddd665234b41076d04c8b.pdf?vsn=d)) - Protocol for algorithmic money markets
